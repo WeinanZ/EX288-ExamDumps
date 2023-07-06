@@ -1,6 +1,6 @@
 # EX288-ExamDumps
 
-This is the Asssumption of the exam format befote attending the exam. 
+This is the Asssumption of the exam format before attending the exam. 
 
 Exam Sections	
 1. Application Deployment	
@@ -10,5 +10,6 @@ Exam Sections
 5. Using Openshift ConfigMaps and Secrets	
 6. Implementing Hooks and Triggers	
 7. Working with Templates	
-8. Application Health Monitoring	
+8. Application Health Monitoring
+
 
