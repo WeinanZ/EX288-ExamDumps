@@ -3,22 +3,22 @@ kind: Template
 metadata:
    name: mytemplate
    annotations:
-      description: "Description"
+      description: "EX288"
 objects:
 - apiVersion: v1
-kind: Pod
-metadata:
+  kind: Pod
+  metadata:
    name: myapp
 spec:
    containers:
 - env:
     - name: MYAPP_CONFIGURATION
       value: ${MYPARAMETER}
-image: myorganization/myapplication
-name: myapp
-ports:
-- containerPort: 80
-  protocol: TCP
+    image: myorganization/myapplication
+    name: myapp
+    ports:
+    - containerPort: 80
+      protocol: TCP
 parameters:
 - description: Myapp configuration data
   name: MYPARAMETER
