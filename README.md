@@ -46,14 +46,5 @@ As part of this exam, you should be able to perform these tasks:
 * Add custom parameters to a template
 
 ### During the exam you may be required to work with one or more pre-written applications. You will not be required to modify application code however in some cases you may need to utilize supplied documentation in order to fully test and complete the deployment of a given application.
-Exam Sections	
-1. Application Deployment	
-2. Maintenance	
-3. Troubleshooting	
-4. Customizing Dockerfiles and S2I Builder Images	
-5. Using Openshift ConfigMaps and Secrets	
-6. Implementing Hooks and Triggers	
-7. Working with Templates	
-8. Application Health Monitoring
 
 
